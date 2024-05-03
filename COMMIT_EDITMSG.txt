@@ -1,0 +1,49 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+# Changes to be committed:
+#	deleted:    Icons/bar-graph.png
+#	deleted:    Icons/code.png
+#	deleted:    Icons/display.png
+#	new file:   Icons/fonts/icomoon.eot
+#	new file:   Icons/fonts/icomoon.svg
+#	new file:   Icons/fonts/icomoon.ttf
+#	new file:   Icons/fonts/icomoon.woff
+#	new file:   Icons/icomoon-v1.0.zip
+#	deleted:    Icons/laptop_windows.png
+#	deleted:    Icons/menu.png
+#	deleted:    Icons/mouse.png
+#	deleted:    Icons/paperplane.png
+#	deleted:    Icons/phone_in_talk.png
+#	deleted:    Icons/school.png
+#	deleted:    Icons/search.png
+#	deleted:    Icons/security.png
+#	deleted:    Icons/star.png
+#	new file:   Img/beat_logo.jpg
+#	new file:   Img/black_swan_logo.jpg
+#	new file:   Img/busseys_logo.jpg
+#	new file:   Img/crane_logo.jpg
+#	new file:   Img/cyber-essentials-colour.jpg
+#	new file:   Img/footer logo.png
+#	new file:   Img/future-50.jpg
+#	new file:   Img/girl_guides_anglia_logo.jpg
+#	new file:   Img/google-partner.jpg
+#	new file:   Img/iso_27001.jpg
+#	new file:   Img/notables.jpg
+#	new file:   Img/princess-royal-training.jpg
+#	new file:   Img/qms.jpg
+#	new file:   Img/skills-of-tomorrow.jpg
+#	new file:   Img/survey_solutions_logo.jpg
+#	new file:   Img/sweetzy_logo.jpg
+#	new file:   Img/xupes_logo.jpg
+#	new file:   fonts.css
+#	new file:   fonts.css.map
+#	new file:   fonts.scss
+#	modified:   index.html
+#	new file:   styles.css
+#	new file:   styles.css.map
+#	new file:   styles.scss
+#
